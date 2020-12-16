@@ -9,7 +9,7 @@ All work shown in this video has been completed by myself, Daniel McArthur in Py
 
 
 <figure class="video_container">
-  <iframe src="https://player.vimeo.com/video/491460076" frameborder="0" allowfullscreen="true"> </iframe>
+  <iframe src="https://vimeo.com/491460076" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
 <iframe src="https://player.vimeo.com/video/491460076" width="640" height="344" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
