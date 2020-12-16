@@ -6,3 +6,11 @@ The intention of this project was to simulate the ways in which social distancin
 <p><a href="https://vimeo.com/491460076">Daniel McArthur | Python Project | COVID-19 Spread Simulator</a> from <a href="https://vimeo.com/user129314614">Daniel McArthur</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 All work shown in this video has been completed by myself, Daniel McArthur in Python using PyCharm CE environment.
+
+
+<figure class="video_container">
+  <iframe src="https://player.vimeo.com/video/491460076" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+
+<iframe src="https://player.vimeo.com/video/491460076" width="640" height="344" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/491460076">Daniel McArthur | Python Project | COVID-19 Spread Simulator</a> from <a href="https://vimeo.com/user129314614">Daniel McArthur</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
